@@ -1,4 +1,4 @@
-// Solution of 1035 - Selection Test 1 in beecrowd
+// Solution of 1035 - Selection Test 1 problem using c++ from beecrowd website
 #include <iostream>
 
 using namespace std;
